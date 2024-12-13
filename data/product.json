@@ -1,0 +1,16 @@
+[
+    {
+        "id" : 1,
+        "Name" : "egt 42",
+        "Description" : "new",
+        "Price" : 1300,
+        "Category_id" : 3
+    },
+    {
+        "id" : 2,
+        "Name" : "cp 4",
+        "Description" : "new",
+        "Price" : 2400,
+        "Category_id" : 2
+    }
+]
